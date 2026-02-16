@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "A.S.A.P.",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T20:08:23.279480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A.S.A.P",
+      "artist": "XlamV",
+      "has_synced": false,
+      "path": "select/01_A.S.A.P_XlamV.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A.S.A.P.",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_A.S.A.P._宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A.S.A.P",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/03_A.S.A.P_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A.S.A.P.",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_A.S.A.P._Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A.S.A.P.",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/05_A.S.A.P._Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A.S.A.P. (Explicit)",
+      "artist": "T.I.",
+      "has_synced": true,
+      "path": "select/06_A.S.A.P._(Explicit)_T.I..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Back (A.S.A.P.)",
+      "artist": "Alexandra Stan",
+      "has_synced": true,
+      "path": "select/07_Get_Back_(A.S.A.P.)_Alexandra_Stan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A.S.A.P.",
+      "artist": "The Sun",
+      "has_synced": false,
+      "path": "select/08_A.S.A.P._The_Sun.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A.S.A.P.～今すぐに駆けつけて",
+      "artist": "EMI MARIA",
+      "has_synced": false,
+      "path": "select/09_A.S.A.P.~今すぐに駆けつけて_EMI_MARIA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A.S.A.P.",
+      "artist": "Utada Hikaru (宇多田ヒカル)",
+      "has_synced": false,
+      "path": "select/10_A.S.A.P._Utada_Hikaru_(宇多田ヒカル).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "T.L.C. A.S.A.P.",
+      "artist": "Alabama",
+      "has_synced": false,
+      "path": "select/11_T.L.C._A.S.A.P._Alabama.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A.S.a.P",
+      "artist": "Tanel Padar & The Sun",
+      "has_synced": false,
+      "path": "select/12_A.S.a.P_Tanel_Padar_&_The_Sun.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A.S.A.P. (Remastered 2018)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/13_A.S.A.P._(Remastered_2018)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "A.S.A.P.",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_A.S.A.P._宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "A.S.A.P.",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_A.S.A.P._宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "A.S.A.P.",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_A.S.A.P._宇多田_ヒカル.txt"
+    }
+  ]
+}
